@@ -1,4 +1,4 @@
 the_ᶜᵃᵃᵃʳ = {
-    "color": "yellow"
+    "color": "blue"
 }
 
