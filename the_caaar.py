@@ -1,5 +1,5 @@
 the_ᶜᵃᵃᵃʳ = {
-    "color": "orange",
+    "color": "red",
     "gas": True
 }
 
